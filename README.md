@@ -11,6 +11,8 @@ A tool to download the latest Shadow Tech software packages, created after my Sh
 > Use of this tool is at your own risk. The developer of shadowpkg is not responsible for any issues, account actions, or technical failures that may arise from using this software or the packages it retrieves. Always ensure you are complying with Shadow's official Terms of Service.
 
 ## Usage
+A pre-compiled Windows binary can be found in the [releases tab.](https://github.com/dwilliamsuk/shadowpkg/releases/tag/v0.0.1)
+
 ```
 Usage of shadowpkg:
   -environment string
