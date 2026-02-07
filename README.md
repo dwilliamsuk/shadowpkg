@@ -21,7 +21,9 @@ Usage of shadowpkg:
 
 ### Example Usage
 ```
-shadowpkg.exe -environment="prod" -output=".\output_dir"
+PS C:\Users\Shadow\Desktop> .\shadowpkg.exe -environment="prod" -output=".\output_dir"
+Downloading [15] packages...
+Done! Saved packages to [C:\Users\Shadow\Desktop\output_dir]
 ```
 
 > [!CAUTION]
